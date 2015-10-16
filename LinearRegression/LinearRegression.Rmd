@@ -1,0 +1,33 @@
+---
+title: "Linear Regression"
+author: "Stefan Eng"
+date: "July 14, 2015"
+output: html_document
+---
+
+## Linear Regression
+
+  - The goal of regression is to learn a mapping from features to **continuous** labels given a training set.
+  - Predictions are evaluated with a loss function.
+  - Common loss functions include:
+    - Absolute loss: $\left|y - \hat{y}\right|$
+    - Squared loss: $\left( y - \hat{y} \right)^2$ (Has nice mathematical properties)
+  - Assume we have $n$ training points, where $x^{(i)}$ denotes the ith point
+    - Linear assumption: $\mathbf{w}^{T} \mathbf{x}$
+    - Use squared loss: $\left( y - \hat{y} \right)^2$
+    - Goal: Find $w$ that minimizes squared loss. $$\underset{\mathbf{w}}{\text{min}} \sum_{i=1}^{n} \left( \mathbf{w}^{T} \mathbf{x}^{(i)} - y^{(i)}\right)$$
+    
+### Matrix notation
+  - Given $n$ training points with $d$ features, we define:
+    - $\mathbf{X} \in \mathbb{R}^{n \times d}$: matrix storing points
+    - $\mathbf{y} \in \mathbb{R}^{n}$: real-value labels
+    - $\hat{\mathbf{y}} \in \mathbb{R}^n$: predicted labels, where $\hat{\mathbf{y}} = \mathbf{X w}$
+    - $\mathbf{w} \in \mathbb{R}^d$: regression parameters/models to learn
+    - Then we can express the Least Squares regression as: Learn mapping ($\mathbf{w}$) from features to labels that minimizes the residual sum of squares: $$\underset{\mathbf{w}}{\text{min}}\ ||\mathbf{X w} -\mathbf{y}||^2_2 $$
+    
+## Ridge Regression
+$$
+\underset{\mathbf{w}}{\text{min}}\ ||\mathbf{X w} -\mathbf{y}||^2_2  + \lambda || \mathbf{w} ||^2_2
+$$
+Ridge regression minimizes sum of squares along with a regularization term.
+This model will prefer simplier models, which generally have smaller weights.
