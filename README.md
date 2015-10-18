@@ -6,6 +6,9 @@
   - [Psycholgical Science Can Improve Diagnostic Decisions](http://www.psychologicalscience.org/journals/pspi/pdf/pspi001.pdf) - More detailed description of ROC curves
   - [Omitted-variable bias](https://en.wikipedia.org/wiki/Omitted-variable_bias)
 
+## Papers
+  - [Markov Chain Monte Carlo Method and Its Application](http://ecovision.mit.edu/~sai/12S990/mcmctutorial.pdf)
+
 ## Free Books
   - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
   - [Practical Regression and Anova using R](http://www.ats.ucla.edu/stat/r/sk/books_pra.htm)
