@@ -8,6 +8,7 @@
 
 ## Papers
   - [Markov Chain Monte Carlo Method and Its Application](http://ecovision.mit.edu/~sai/12S990/mcmctutorial.pdf)
+  - [Traffic Anomaly Detection Using K-Means Clustering](http://www.net.in.tum.de/fileadmin/TUM/members/muenz/documents/muenz07k-means.pdf)
 
 ## Free Books
   - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
