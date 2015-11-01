@@ -7,6 +7,7 @@
   - [Better Decisions Through Science](http://www.psychologicalscience.org/pdf/pspi/sciam.pdf) discusses ROC curves and their importance.
   - [Psycholgical Science Can Improve Diagnostic Decisions](http://www.psychologicalscience.org/journals/pspi/pdf/pspi001.pdf) - More detailed description of ROC curves
   - [Omitted-variable bias](https://en.wikipedia.org/wiki/Omitted-variable_bias)
+  - [Markov Chains](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter11.pdf) from [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html)
 
 ### Articles
   - [What's wrong with Bonferroni adjustments](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1112991/)
