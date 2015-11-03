@@ -19,6 +19,7 @@
 
 ### Free Books
   - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
+  - [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
   - [Practical Regression and Anova using R](http://www.ats.ucla.edu/stat/r/sk/books_pra.htm)
 
 ## Infrastructure
