@@ -19,6 +19,7 @@
   - [Traffic Anomaly Detection Using K-Means Clustering](http://www.net.in.tum.de/fileadmin/TUM/members/muenz/documents/muenz07k-means.pdf)
   - [A\* Sampling](http://papers.nips.cc/paper/5449-a-sampling.pdf)
   - [Tutorial on MLEs](http://times.cs.uiuc.edu/course/410/note/mle.pdf)
+  - [Algebraic classifiers](https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf) using monoids and homomorphisms for online training algorithms and cross validation.
 
 ### Free Books
   - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
