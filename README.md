@@ -27,6 +27,9 @@
   - [The Elements of Statistical Learning](http://statweb.stanford.edu/~tibs/ElemStatLearn/)
   - [Practical Regression and Anova using R](http://www.ats.ucla.edu/stat/r/sk/books_pra.htm)
 
+### Courses
+  - [Applied Data Mining and Statistical Learning](https://onlinecourses.science.psu.edu/stat857/intro)
+
 ## Infrastructure
 
 ### Articles
