@@ -10,6 +10,7 @@
   - [Markov Chains](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/Chapter11.pdf) from [Introduction to Probability](http://www.dartmouth.edu/~chance/teaching_aids/books_articles/probability_book/book.html)
   - [Common mistakes in science](http://www.nature.com/news/how-scientists-fool-themselves-and-how-they-can-stop-1.18517)
   - [TensorFlow](http://www.tensorflow.org/)
+  - [Holdout reuse](http://www.sciencemag.org/content/349/6248/636.full.pdf) also see blog post about it [here](http://andyljones.tumblr.com/post/127547085623/holdout-reuse)
 
 ### Articles
   - [What's wrong with Bonferroni adjustments](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1112991/)
