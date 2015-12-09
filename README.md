@@ -12,6 +12,7 @@
   - [TensorFlow](http://www.tensorflow.org/)
   - [Holdout reuse](http://www.sciencemag.org/content/349/6248/636.full.pdf) also see blog post about it [here](http://andyljones.tumblr.com/post/127547085623/holdout-reuse)
   - [Making Sense of PCA, eigenvectors, and eigenvalues](http://stats.stackexchange.com/questions/2691/making-sense-of-principal-component-analysis-eigenvectors-eigenvalues)
+  - [Tutorials on Bayesian Nonparametrics](http://stat.columbia.edu/~porbanz/npb-tutorial.html)
 
 ### Articles
   - [What's wrong with Bonferroni adjustments](http://www.ncbi.nlm.nih.gov/pmc/articles/PMC1112991/)
