@@ -30,6 +30,7 @@
 
 ### Courses
   - [Applied Data Mining and Statistical Learning](https://onlinecourses.science.psu.edu/stat857/intro)
+  - [Bayesian Statistics Oxford Youtube lectures](https://www.youtube.com/playlist?list=PLFDbGp5YzjqXQ4oE4w9GVWdiokWB9gEpm)
 
 ## Infrastructure
 
