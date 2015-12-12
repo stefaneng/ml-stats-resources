@@ -23,6 +23,7 @@
   - [A\* Sampling](http://papers.nips.cc/paper/5449-a-sampling.pdf)
   - [Tutorial on MLEs](http://times.cs.uiuc.edu/course/410/note/mle.pdf)
   - [Algebraic classifiers](https://izbicki.me/public/papers/icml2013-algebraic-classifiers.pdf) using monoids and homomorphisms for online training algorithms and cross validation.
+  - [Model-based machine learning](http://research.microsoft.com/en-us/um/people/cmbishop/downloads/Bishop-MBML-2012.pdf)
 
 ### Free Books
   - [Advanced Data Analysis from an Elementary Point of View](http://www.stat.cmu.edu/~cshalizi/ADAfaEPoV/)
